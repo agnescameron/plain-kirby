@@ -1,0 +1,35 @@
+Title: About this site
+
+----
+
+Text:
+
+I’m a Professor in the Department of Anthropology at The New School in New York. For 14.5 years I served as a faculty member in The New School’s School of Media Studies. My writing and teaching focus on archives, libraries, and other media spaces; media infrastructures; spatial epistemologies; and mediated sensation and exhibition. I’m the author of three books: The New Downtown Library: Designing with Communities; Deep Mapping the Media City; and Code and Clay, Dirt and Data: 5000 Years of Urban Media, all published by University of Minnesota Press. A City Is Not a Computer is under contract with Princeton University Press. I’ve also written several dozen journal articles and book chapters, and I write a regular long-form column about urban data and mediated infrastructures for Places, an open-access journal focusing on architecture, urbanism, and landscape. I contribute to public design and interactive projects and exhibitions, too. And from 2006 to 2009 I directed the 600-student Graduate Program in Media Studies, where I learned that I am, much to my disappointment, not terrible at administration.
+
+I currently teach courses on maps, information infrastructures, urban intelligence, and mediated cities. I’m grateful to have won a Distinguished Teaching Award, and to have had the opportunity to work with hundreds of inspiring students, many of whom have gone on to do amazing things.
+
+Also: I like art, music, and dogs. And New York, where I’ve lived for 20 years. Finally: I know how to make a dovetail joint without using power tools.
+
+----
+
+Address: New School baby
+
+----
+
+Email: shannon@email.com
+
+----
+
+Phone: 
+
+----
+
+Social:
+
+- 
+  platform: Pinboard
+  url: https://pinboard.in/u:shannon_mattern
+
+----
+
+Contact: shannon@email
